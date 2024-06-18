@@ -28,6 +28,9 @@ https://www.comp.nus.edu.sg/~lijl/
 ### Hetu Website
 https://hetu.org
 
+### Telegram group
+[Hetu Builders Hub](https://t.me/+uJrRgjtSsGw3MjZl)
+
 ### Advaita Labs
 https://advaita.xyz/
 
