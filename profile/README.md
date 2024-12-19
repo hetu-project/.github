@@ -57,23 +57,4 @@ Hetu's architecture combines a hyperscale chain offering rapid finality with a c
 - [🔗 Akasha](https://akasha.buzz/)
 - [🔗 Prof. Li Jialin](https://www.comp.nus.edu.sg/~lijl/)
 
-## 🤝 Backed By
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">DAO5</td>
-      <td align="center">Robot Venture</td>
-      <td align="center">MH Venture</td>
-      <td align="center">Paramita Venture</td>
-      <td align="center">Eigenlayer</td>
-    </tr>
-  </table>
-</div>
-
-## 📱 Connect With Us
-- [🌐 Website](https://hetu.org)
-- [💬 Twitter/X](https://x.com/hetu_protocol)
-- [💬 Telegram](https://t.me/+uJrRgjtSsGw3MjZl)
-- [🏢 Advaita Labs](https://advaita.xyz/)
-- [📄 Whitepaper](https://docsend.com/view/8yyx73ntpr9n3eqc)
 
