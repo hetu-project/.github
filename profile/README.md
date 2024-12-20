@@ -53,7 +53,7 @@ Hetu's architecture combines a hyperscale chain offering rapid finality with a c
 - [📄 Pegasus: Tolerating Skewed Workloads in Distributed Storage with In-Network Coherence Directories (OSDI'20)](https://www.comp.nus.edu.sg/~lijl/papers/pegasus-osdi20.pdf)
 - [📄 Vault: Decentralized Storage Made Durable](https://arxiv.org/pdf/2310.08403.pdf)
 
-## 👥 Leadership & Partners
+## 👥 Cofounders
 - [🔗 Akasha](https://akasha.buzz/)
 - [🔗 Prof. Li Jialin](https://www.comp.nus.edu.sg/~lijl/)
 
