@@ -10,26 +10,26 @@
 </div>
 
 ## 🌟 What is Hetu
-Hetu is an intersubjective attribution layer, bringing instant finality for off-chain systems. It is a hyper-scalable causality-based ground layer for deAIs, deSci, and longevity. Hetu is created by Advaita Labs with 10+ OSDI, SOSP, and NSDI papers in causality and distributed systems.
+Hetu is the intersubjective attribution layer, coordinating AI for Science. It’s visioned to be the next generation of emerging social contract platform, bringing humanic intelligence to Ethereum.Hetu is created by Advaita Labs with 10+ OSDI, SOSP, and NSDI papers in causality and distributed systems.
 
 ## 🔧 Core Technology: Causality-Based Hyperscale Finality
 ### ⚡️ Features
 - Verifiable logical clocks by TEE
-- Fast causal ordering of transactions and abstract AI events
+- Fast causal ordering of transactions and abstract AI events such as training of user data
 - Hyperscale AI-Native chains using DAG technologies
 - 160,000+ theoretical TPS
 
 ### 🏗️ Architecture
-Hetu's architecture combines a hyperscale chain offering rapid finality with a coordination layer designed for seamless interoperability. By leveraging causal ordering, the chain achieves scalable transaction throughput and near-instant transaction settlement.
+Hetu’s architecture combines hyperscale parallel DAG chains offering rapid finality with a coordination layer designed for seamless interoperability. By leveraging causal ordering, the chain achieves scalable transaction throughput and near-instant transaction settlement. Meanwhile, its intersubjective offchain layer establishes a common causality framework that unites disparate AI infrastructures, aligning them to interact and evolve collectively within a coherent, interoperable manner for science.
 
-## 💫 Core Values: Interoperable Value Diffusion
+## 💫 Core Values: Interoperable Value Diffusion of AIs for Science
 - 🔄 Instant finality for value attribution on-chain
 - 🔐 Transparent secure timestamping
 - 📈 Hyper-scalable verifications
 - 🤝 Interoperable ordering mechanisms
 - 🛡️ Anti-censorship governance
 
-## 🎯 Use Cases
+## 🎯 Use Cases: Interoperatable Ground Layer to Coordinate AIs for science
 
 ### 🤖 For DeAIs
 1. Hyperscale pre-confirmations for AI-related transactions
