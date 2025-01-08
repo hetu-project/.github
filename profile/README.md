@@ -23,18 +23,20 @@ Hetu is the intersubjective attribution layer, coordinating AI for Science. It�
 Hetu’s architecture combines hyperscale parallel DAG chains offering rapid finality with a coordination layer designed for seamless interoperability. By leveraging causal ordering, the chain achieves scalable transaction throughput and near-instant transaction settlement. Meanwhile, its intersubjective offchain layer establishes a common causality framework that unites disparate AI infrastructures, aligning them to interact and evolve collectively within a coherent, interoperable manner for science.
 
 ## 💫 Core Values: Interoperable Value Diffusion of AIs for Science
-- 🔄 Instant finality for value attribution on-chain
+- 🚀 Instant finality for value attribution on-chain
 - 🔐 Transparent secure timestamping
 - 📈 Hyper-scalable verifications
-- 🤝 Interoperable ordering mechanisms
+- 🔄 Interoperable Ordering Mechanisms for Incentivization
 - 🛡️ Anti-censorship governance
+- 🌱 Empowering DeSci Infrastructures
+- 🤝 Supporting Collaborative Agent Network
 
 ## 🎯 Use Cases: Interoperatable Ground Layer to Coordinate AIs for science
 
 ### 🤖 For DeAIs
 1. Hyperscale pre-confirmations for AI-related transactions
 2. Real-time verifications for GPU platforms
-3. Verifiable framework for data transmissions
+3. Verifiable TEE framework for data transmissions
 4. Shared sequencing for AI-Native chains
 5. Anti-censorship voting for AI governance
 
