@@ -6,69 +6,43 @@
   [![Twitter Follow](https://img.shields.io/twitter/follow/hetu_protocol?style=social&label=Follow)](https://x.com/hetu_protocol)
   [![Telegram](https://img.shields.io/badge/Telegram-Hetu_Builders-blue)](https://t.me/+uJrRgjtSsGw3MjZl)
   [![Website](https://img.shields.io/badge/Website-hetu.org-green)](https://hetu.org)
+  [![Lightpaper](https://img.shields.io/badge/Lightpaper-Read-orange)](https://docsend.com/v/jt55f/hetu_litepaper)
   [![Whitepaper](https://img.shields.io/badge/Whitepaper-Read-orange)](https://docsend.com/view/8yyx73ntpr9n3eqc)
 </div>
 
 ## 🌟 What is Hetu
-Hetu is a revolutionary initiative at the forefront of the "AI for Science" movement. It serves as an intersubjective attribution layer, redefining how AI resources are coordinated and utilized in scientific research. Envisioned as the next - generation social contract platform, Hetu is bringing human - like intelligence to the Ethereum ecosystem, enabling a new era of decentralized AI applications in science. Developed by Advaita Labs, with a rich academic background of over 10 OSDI, SOSP, and NSDI papers in causality and distributed systems, Hetu is built on a solid foundation of research - driven innovation.
+Hetu is the intersubjective consensus, decentralizing AI for Science. It's the decentralized model graph with causal dependency, bringing impartial value distribution for accelerating science. Advaita Labs created it with 10+ OSDI, SOSP, and NSDI papers in causality and AI systems. 
 
-## 🔧 Core Technology: Causality-Based Hyperscale Finality
-### ⚡️ Features
-- **Verifiable TEE-based Clocks**
+## ❓Problem
+The value distribution of open-source AIs for Science is dispersed, isolated and inequitable. The current blockchain solutions aggravated monopoly and canalization during this process, which excludes common contributors from participating through GitHub or social networks.
 
-Leveraging Trusted Execution Environments (TEE), Hetu implements verifiable logical clocks. These clocks ensure the integrity and reliability of time - stamping for all AI - related events, from data transmission to model training.
+## 🔧 Core Tech: Decentralized ModelGraphs with POCW
+Hetu implements decentralized modelgraphs with causal dependency graphs to generate impartial incentives for vertical model contributors. Its features include hyper-scalable verifications, interoperable sequencing incentivization, and anti-censorship governance.
+- Hetu‘s modelgraph is enabled by causality graphs, by verifiable logic clocks with TEE.
+- Hetu’s root consensus is intersubjective: proof of causality work (POCW).
+- Hetu provides instant finality by hyperscalable layer 2 using DAG, with a theoretical TPS of 160,000+. 
 
-- **Fast Causal Ordering**
+##  Value Proposition: Impartial Value Distribution of AIs for Science
+Hetu facilitates fair and impartial value distribution between off-chain AI models, enabling transparent and interoperable auditing for open-source science model contributors.
 
-Hetu enables fast causal ordering of not only traditional transactions but also abstract AI events such as user - data training. This ensures that all AI operations are executed in a logically consistent manner, enhancing the efficiency and reliability of AI workflows.
+## 🎯 Use Case: Bootstrapping ModelDAOs for Science
+Hetu bootstraps the open-source vertical models for science cost-effectively and autonomously:
+1) 🚀For fair attributions of ModelDAOs of science, Hetu provides instant accountability by verifiable dependency of the modelgraphs. 
+2) ⚡️For wider and fair incentives of ModelDAOs of science, Hetu provides verifiable impartiality via its hyperscale AI-native chains. 
+3) 🛡️For impartial governance of ModelDAOs of science, Hetu provides anti-censorship voting via its off-chain governance frameworks.
 
-- **Agent - Empowered Hyper-Scale Chains**
-
-By harnessing Directed Acyclic Graph (DAG) technologies, Hetu enables the creation of hyper-scale Agent-Native chains. These chains are designed to support a high volume of AI-related transactions, with a theoretical Transaction Per Second (TPS) rate of over 160,000. This high throughput capacity makes Hetu suitable for large-scale AI-in-science applications.
-
-### 🏗️ Architecture
-
-Hetu's architecture is a masterpiece of engineering, combining two key components:
-
-**Hyper-scale Parallel DAG Layer2 Chains**: These chains are designed to offer rapid finality, scalable transaction throughput, and instant transaction settlement. They are the backbone of Hetu's ability to handle the high-volume, time-sensitive nature of AI-related transactions.
-
-**Off-chain Attribution Layer**: This layer establishes a causality framework that unites disparate AI infrastructures. It acts as a bridge, enabling different AI systems to interact in a coherent and interoperable manner. This framework is crucial for attributing value, resources, and contributions within the AI ecosystem, especially in the context of scientific research.
-
-## 💫 Core Values: Interoperable Value Diffusion of AIs for Science
-- 🚀 Instant Finality for Onchain Value Attribution
-- 🔐 Transparent Secure Timestamping
-- 📈 Hyper-scalable verifications
-- 🔄 Interoperable Ordering Mechanisms for Incentivization
-- 🛡️ Anti-censorship governance
-- 🌱 Empowering DeSci Infrastructures
-- 🤝 Supporting Collaborative Agent Network
-
-## 🎯 Use Cases: Interoperatable Ground Layer to Coordinate AIs for science
-
-### 🤖 For DeAIs(Decentralized AIs)
-1. Hyperscale pre-confirmations for AI-related transactions
-2. Real-time verifications for GPU platforms
-3. Verifiable TEE framework for data transmissions
-4. Shared sequencing for AI-Native chains
-5. Anti-censorship voting for AI governance
-
-### 🧬 For DeSci & Longevity
-1. Hyper scalable DeSci chains
-2. Attribution for longevity public networks
-3. Decentralized social layers for DeSci communities
-
-## 📚 Research Papers
-### Hetu VLC Research
-- [📄 Chrono: A Peer-to-Peer Network with Verifiable Causality](https://arxiv.org/pdf/2310.08373.pdf)
-- [📄 Building a Verifiable Logical Clock for P2P Networks](https://arxiv.org/pdf/2405.13349)
-
-### Advaita Labs Research
-- [📄 Just Say NO to Paxos Overhead: Replacing Consensus with Network Ordering (OSDI'16)](https://www.comp.nus.edu.sg/~lijl/papers/nopaxos-osdi16.pdf)
-- [📄 Pegasus: Tolerating Skewed Workloads in Distributed Storage with In-Network Coherence Directories (OSDI'20)](https://www.comp.nus.edu.sg/~lijl/papers/pegasus-osdi20.pdf)
-- [📄 Vault: Decentralized Storage Made Durable](https://arxiv.org/pdf/2310.08403.pdf)
-
-## 👥 Cofounders
+## 👥Hetu Cofounders
 - [🔗 Akasha](https://akasha.buzz/)
 - [🔗 Prof. Li Jialin](https://www.comp.nus.edu.sg/~lijl/)
 
+## 💫Vision: Intersubjective Consensus
+With the unique philosophy of intersubjective consensus, Hetu is envisioned to drive breakthroughs of deep entanglement between humans and AIs. Hetu unifies the power of decentralized science and community-first, to bring science assets to Ethereum.Cofounded in 2021, we have completed core research, testnet 1.0 and plan to release mainnet phase 1 in Q2 of 2025.
 
+- [Intersubjective Vision Paper](https://blog.hetu.org/intersubjective-consensus-a-harmonious-approach-for-censorship-resistant-web3)
+- [Hetu Key Research of VLC](https://arxiv.org/pdf/2310.08373.pdf)
+
+## Related Research
+- [📄 Vault: Decentralized Storage Made Durable](https://arxiv.org/pdf/2310.08403.pdf)
+- [📄 Just Say NO to Paxos Overhead: Replacing Consensus with Network Ordering (OSDI'16)](https://www.comp.nus.edu.sg/~lijl/papers/nopaxos-osdi16.pdf)
+- [📄 Pegasus: Tolerating Skewed Workloads in Distributed Storage with In-Network Coherence Directories (OSDI'20)](https://www.comp.nus.edu.sg/~lijl/papers/pegasus-osdi20.pdf)
+- [📄 NeoBFT: Accelerating Byzantine Fault Tolerance Using Authenticated In-Network Ordering (OSDI'20)](https://dl.acm.org/doi/pdf/10.1145/3603269.3604874)
