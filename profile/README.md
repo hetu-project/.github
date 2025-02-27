@@ -40,7 +40,8 @@ With the unique philosophy of intersubjective consensus, Hetu is envisioned to d
 
 - [Intersubjective Vision Paper](https://blog.hetu.org/intersubjective-consensus-a-harmonious-approach-for-censorship-resistant-web3)
 - [Hetu Key Research of VLC](https://arxiv.org/pdf/2310.08373.pdf)
-
+- [Proof of Causality Work (POCW)](https://github.com/hetu-project/causality-graph/blob/3ce32c69c8d20cc87c516084e93f0424bd321c9c/pocw/PoCW%20vision%20paper.pdf)
+  
 ## Related Research
 - [📄 Vault: Decentralized Storage Made Durable](https://arxiv.org/pdf/2310.08403.pdf)
 - [📄 Just Say NO to Paxos Overhead: Replacing Consensus with Network Ordering (OSDI'16)](https://www.comp.nus.edu.sg/~lijl/papers/nopaxos-osdi16.pdf)
