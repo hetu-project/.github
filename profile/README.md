@@ -39,7 +39,8 @@ Hetu bootstraps the open-source vertical models for science cost-effectively and
 With the unique philosophy of intersubjective consensus, Hetu is envisioned to drive breakthroughs of deep entanglement between humans and AIs. Hetu unifies the power of decentralized science and community-first, to bring science assets to Ethereum.Cofounded in 2021, we have completed core research, testnet 1.0 and plan to release mainnet phase 1 in Q2 of 2025.
 
 - [Intersubjective Vision Paper](https://blog.hetu.org/intersubjective-consensus-a-harmonious-approach-for-censorship-resistant-web3)
-- [Hetu Key Research of VLC](https://arxiv.org/pdf/2310.08373.pdf)
+- [Chrono: A Peer-to-Peer Network with Verifiable Causality](https://arxiv.org/pdf/2310.08373.pdf)
+- [Building a Verifiable Logical Clock for P2P Networks](https://arxiv.org/pdf/2405.13349.pdf)
 - [Proof of Causality Work (POCW)](https://github.com/hetu-project/causality-graph/blob/3ce32c69c8d20cc87c516084e93f0424bd321c9c/pocw/PoCW%20vision%20paper.pdf)
   
 ## Related Research
