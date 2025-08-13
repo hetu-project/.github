@@ -1,43 +1,78 @@
 <div align="center">
 
   
-  # Hetu: The First Decentralized AI4Science OS
+  # HETU:  Deep Intelligence Society
   
   [![Twitter Follow](https://img.shields.io/twitter/follow/hetu_protocol?style=social&label=Follow)](https://x.com/hetu_protocol)
   [![Telegram](https://img.shields.io/badge/Telegram-Hetu_Builders-blue)](https://t.me/+uJrRgjtSsGw3MjZl)
   [![Website](https://img.shields.io/badge/Website-hetu.org-green)](https://hetu.org)
-  [![Lightpaper](https://img.shields.io/badge/Lightpaper-Read-orange)](https://docsend.com/v/jt55f/hetu_litepaper)
   [![Whitepaper](https://img.shields.io/badge/Whitepaper-Read-orange)](https://docsend.com/view/8yyx73ntpr9n3eqc)
 </div>
 
-As AI advances, the concept of "everyone is a scientist" becomes attainable. Vertical AI is expanding human capabilities to scientist level across multiple disciplines. However, centralized control of AI resources and insufficient open-source incentives hinder the collaboration, and equitable value distributions.
+Hetu is building a deeply entangled intersubjective reality where humans and intelligence co-create.
+Our mission is to dissolve the trust gap between humans and intelligence, evolving towards a self-incentivized, self-evolving, self-operating society of deep intelligence.
 
-## ❓Problem
-While open-source AI for science promotes collaboration, contributors face fragmented access and lack equitable rewards. Existing blockchain solutions often underestimate the complexities of co-building AI, relying on centralized servers, closed point systems, and governance models influenced by major token holders. Consequently, off-chain AI contributions—such as code commits on GitHub or user feedback—remain under-incentivized and poorly recognized.
+## Mainnet — Foundational Pillars
+| Pillar                       | Role                               | Output                                          | Layer          |
+| ---------------------------- | ---------------------------------- | ----------------------------------------------- | -------------- |
+| **Deep Intelligence Market** | Capital Formation for Intelligence | Monetization, stablecoin liquidity, agent IPOs  | Economic Layer |
+| **Truth Engine**             | Attribution & Consensus            | Causal graphs, incentives, trustless audit      | Truth Layer    |
+| **Hyper-Scalable Layer 2**   | Execution for Scientific-Grade AI  | Real-time, low-latency compute and coordination | Infra Layer    |
 
-## 🔧 Core Product: Decentralized AI4Science OS with hyperscalability
-Hetu offers an AI4Science OS built on decentralized model graphs, coupled with causal dependency tracking. This enables impartial incentives for vertical model creators and contributors:
-- Decentralized Model Graphs: Transparently link and verify AI models and data, ensuring traceable contributions with 1 million QPS/subgraph.
-- Causal Dependency Tracking (POCW): The Proof of Causal Work consensus accurately evaluates each contributor’s work, enabling fairer incentives with 100x throughput.
-- Hyper-Scalable Consensus: Hetu’s DAG-based layer 2 achieves over 160,000 TPS with sub-second confirmation—suitable for large-scale scientific models.
+### 🧠 1. Deep Intelligence Market
+Economic Layer — Redefining capital formation around intelligence as an asset class, backed by measurable contribution and utility.
+#### Key Features:
+- EVM-compatible Mainnet/Subnet architecture.
+- Decentralized Mixture-of-Experts (MoE) + training models.
+- Consensus via Proof-of-Intelligence in expert model routing/aggregation.
+- Dynamic model selection to incentivize new entrants.
+- Intelligence Mining — Rewards based on compute + verifiable contribution.
+- Native support for AI-for-Science workloads.
 
-##  Unique Value Proposition: Impartial Value Distribution in AI4Science
-Hetu's architecture enables verifiable and transparent auditing of open-source model contributions, rewarding teams and individuals in a purely decentralized manner. This fosters broader collaboration and continuous innovation.
+#### Economic Components:
+- HETU Mining — Mint tokens based on verifiable AI contribution (Proof of Execution & Contribution).
+- AI-Stablecoin Payment Protocol — Stake HETU to mint stablecoins for licensing, microtransactions, and event-based payments.
+- AI-NativeCoin / AI RBO (Revenue-Based Offering) — Tokenized, programmable cash flow rights for intelligence assets, enabling DeFi-style liquidity and financing.
 
-## 🎯 Use Case: Bootstrapping ModelDAOs for Science
-Hetu bootstraps open-source vertical models for science in tokenization model and service model: 
-1) 🚀For fair and cost-effective attributions of ModelDAOs for science, Hetu provides instant accountability through verifiable model graph dependencies. 
-2) ⚡️For broader and fairer incentives for ModelDAOs of science, Hetu provides verifiable impartiality via its hyper-scale modelchains. 
-3) 🛡️For impartial and adaptive governance of ModelDAOs for science, Hetu provides anti-censorship voting and personalized privacy.
+
+### 🧩 2. Truth Engine
+Consensus & Attribution Layer — Audits, attributes, and rewards AI based on real utility.
+#### Core Mechanisms:
+- Verifiable AI Utility — Proofs for every inference, interaction, and data contribution.
+- Proof of Causal Work (PoCW) — Directed Acyclic Graph (DAG) of events and their causal relationships; rewards based on causal weight.
+- Intersubjectivity Framework — Bridges human metrics and agent-native consensus.
+- Hyper-Scalability.
+
+### ⚙️ 3. Hyper-Scalable Layer 2
+Execution Layer — Scientific-grade AI computation with high throughput and low latency.
+#### Performance Benchmarks:
+- TPS: 210,000+
+- Finality: 400ms
+
+#### Architecture:
+- Sequencer Layer — Fast transaction ordering, real-time coordination.
+- DAG-based BFT Layer — High-throughput finality engine optimized for AI/science workloads.
+
+## Subnet
+| Vertical              | Focus                            | Core Mechanism                               |
+| --------------------- | -------------------------------- | -------------------------------------------- |
+| 🤖 **AI Money**       | Monetization of intelligence     | \$AI-NativeCoin (CVF, RVF), AI-Stablecoins   |
+| 🔬 **AI for Science** | Scientific data assetization     | Encrypted data pipelines, model licensing    |
+| 💸 **AIFi**           | Intelligence × Financial markets | AI × RWA, cash flow keys                     |
+
+### 🤖 AI Money
+- Trades programmable cash flow rights (CVF, RVF).
+- Verifiable cashflow auditing, real-time monetization, native AI yield loops.
+
+### 🔬 AI for Science (AI4SCI)
+- On-chain scientific provenance, dataset licensing, open AI/Science marketplaces.
+
+### 💸 AIFi — Deep Intelligence Finance
+- Brings RWA and capital markets on-chain.
 
 ## 👥Hetu Cofounders
 - [🔗 Akasha](https://akasha.buzz/)
 - [🔗 Prof. Li Jialin](https://www.comp.nus.edu.sg/~lijl/)
-
-Hetu is developed by Advaita Labs, with 10+ OSDI, SOSP, and NSDI publications in Causality and AI systems.
-
-## 💫Intersubjective Consensus Vision
-Guided by the philosophy of intersubjective consensus, Hetu aims to drive breakthroughs in the deep integration of humans and AIs.
 
 Hetu Key Research of VLC:
 - [Chrono: A Peer-to-Peer Network with Verifiable Causality](https://arxiv.org/pdf/2310.08373.pdf)
@@ -55,12 +90,7 @@ Hetu Key AI Research:
   - https://dl.acm.org/doi/10.1145/3698038.3698563
   - https://proceedings.neurips.cc/paper_files/paper/2024/hash/9482f45fdd89aba9130bb04c44f788a9-Abstract-Conference.html
 
-[Hetu Lightpaper](https://docsend.com/v/jt55f/hetu_litepaper)
-
-[Hetu Deck](https://docsend.com/v/vbw76/hetudecklatest)
-
 [Hetu Website](https://linktr.ee/hetu_protocol)
-
 
 
 
