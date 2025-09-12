@@ -86,6 +86,8 @@ Hetu Key Consensus Research:
 - [Intersubjective Vision Paper](https://blog.hetu.org/intersubjective-consensus-a-harmonious-approach-for-censorship-resistant-web3)
 
 Hetu Key AI Research:
+  - [Resource Multiplexing in Tuning and Serving
+Large Language Models](https://usenix.org/system/files/atc25-he-yongjun.pdf)
   - https://yao.lu/ai_native.pdf
   - https://dl.acm.org/doi/10.1145/3698038.3698563
   - https://proceedings.neurips.cc/paper_files/paper/2024/hash/9482f45fdd89aba9130bb04c44f788a9-Abstract-Conference.html
