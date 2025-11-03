@@ -88,9 +88,10 @@ Hetu Key Consensus Research:
 Hetu Key AI Research:
   - [Resource Multiplexing in Tuning and Serving
 Large Language Models](https://usenix.org/system/files/atc25-he-yongjun.pdf)
-  - https://yao.lu/ai_native.pdf
-  - https://dl.acm.org/doi/10.1145/3698038.3698563
-  - https://proceedings.neurips.cc/paper_files/paper/2024/hash/9482f45fdd89aba9130bb04c44f788a9-Abstract-Conference.html
+  - [Computing in the Era of Large Generative Models:
+From Cloud-Native to AI-Native](https://yao.lu/ai_native.pdf)
+  - [ParaGAN: A Scalable Distributed Training Framework for Generative Adversarial Networks](https://dl.acm.org/doi/10.1145/3698038.3698563)
+  - [FedLPA: One-shot Federated Learning with Layer-Wise Posterior Aggregation](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9482f45fdd89aba9130bb04c44f788a9-Abstract-Conference.html)
 
 [Hetu Website](https://linktr.ee/hetu_protocol)
 
